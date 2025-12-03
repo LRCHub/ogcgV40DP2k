@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "LOVE GOOD TIME",
+  "base_artist": "SpecialThanks",
+  "createdAt": "2025-12-03T23:32:53.078457Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE GOOD TIME",
+      "artist": "SpecialThanks",
+      "has_synced": false,
+      "path": "select/01_LOVE_GOOD_TIME_SpecialThanks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOVE GOOD TIME",
+      "artist": "SpecialThanks",
+      "has_synced": true,
+      "path": "select/02_LOVE_GOOD_TIME_SpecialThanks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOVE GOOD TIME (TV SIZE)",
+      "artist": "SpecialThanks",
+      "has_synced": false,
+      "path": "select/03_LOVE_GOOD_TIME_(TV_SIZE)_SpecialThanks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "She's the Woman I Love/Good Time Music",
+      "artist": "Gram Parsons",
+      "has_synced": true,
+      "path": "select/04_She's_the_Woman_I_Love_Good_Time_Music_Gram_Parsons.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOVE GOOD TIME",
+      "artist": "SpecialThanks",
+      "has_synced": true,
+      "path": "select/05_LOVE_GOOD_TIME_SpecialThanks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE GOOD TIME",
+      "artist": "SpecialThanks",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_GOOD_TIME_SpecialThanks.txt"
+    }
+  ]
+}
